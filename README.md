@@ -6,3 +6,6 @@
 ## We can also use Rstudio to commit changes 
 
 ## This is working fine!
+
+this is also working :) :) 
+not it wasn't
